@@ -57,10 +57,10 @@ Esse projeto simula o dia a dia de um Analista de Dados focado em RH, que precis
 | Criação do repositório e entendimento do desafio | ✅ |
 | Estruturação do projeto e diretórios | ✅ |
 | Análise Exploratória dos Dados (EDA) | ✅ |
-| Modelagem preditiva (Regressão Logística / Random Forest) | ✅ |
-| Avaliação de métricas (AUC-ROC, F1, Recall) | ✅ |
-| Feature Importance + Explicabilidade | ✅ |
-| Análise de Causa Raiz (Ishikawa + 5 Porquês) | ✅ |
+| Modelagem preditiva (Regressão Logística / Random Forest) | ⬜ |
+| Avaliação de métricas (AUC-ROC, F1, Recall) | ⬜ |
+| Feature Importance + Explicabilidade | ⬜ |
+| Análise de Causa Raiz (Ishikawa + 5 Porquês) | ⬜ |
 | Construção do dashboard no Power BI | ⬜ |
 | Publicação de artigo no Medium e LinkedIn | ⬜ |
 
